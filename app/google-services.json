@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "999016318159",
+    "firebase_url": "https://ejemplolis-b5967.firebaseio.com",
+    "project_id": "ejemplolis-b5967",
+    "storage_bucket": "ejemplolis-b5967.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999016318159:android:2c08647beaff268c",
+        "android_client_info": {
+          "package_name": "co.edu.udea.computacionmovil.myapplication00"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999016318159-6k2cov2ofb0tuegq44m1g05b3158b4qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx7ObxRT2lWMNC0FrGYJYhVwgvi9JY1iY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
